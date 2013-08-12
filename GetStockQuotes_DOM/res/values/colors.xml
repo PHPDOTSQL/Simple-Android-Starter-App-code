@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- One way to define custom colors -->
+
+    <color name="purple">#aaa4d7</color>
+    <color name="light_green">#d2d8a4</color>
+    <color name="black">#000000</color>
+
+</resources>
